@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tests/static/css/main.cc478539.chunk.css",
+    "main.js": "/tests/static/js/main.e2dfc77c.chunk.js",
+    "main.js.map": "/tests/static/js/main.e2dfc77c.chunk.js.map",
+    "runtime~main.js": "/tests/static/js/runtime~main.227e9f38.js",
+    "runtime~main.js.map": "/tests/static/js/runtime~main.227e9f38.js.map",
+    "static/css/2.5ec480d0.chunk.css": "/tests/static/css/2.5ec480d0.chunk.css",
+    "static/js/2.33fb797b.chunk.js": "/tests/static/js/2.33fb797b.chunk.js",
+    "static/js/2.33fb797b.chunk.js.map": "/tests/static/js/2.33fb797b.chunk.js.map",
+    "index.html": "/tests/index.html",
+    "precache-manifest.5a27a7e5fe5f84ae9daa3965014fbf2a.js": "/tests/precache-manifest.5a27a7e5fe5f84ae9daa3965014fbf2a.js",
+    "service-worker.js": "/tests/service-worker.js",
+    "static/css/2.5ec480d0.chunk.css.map": "/tests/static/css/2.5ec480d0.chunk.css.map",
+    "static/css/main.cc478539.chunk.css.map": "/tests/static/css/main.cc478539.chunk.css.map",
+    "static/media/fonts.css": "/tests/static/media/playfair-display-v14-latin-900italic.e90c8927.woff",
+    "static/media/StatisticBlock.module.css": "/tests/static/media/baseline-keyboard_return-24px.612d4981.svg",
+    "static/media/TestAnswer.module.css": "/tests/static/media/checked.ea1303d7.svg",
+    "static/media/happyCat1.jpg": "/tests/static/media/happyCat1.3aab5c4a.jpg",
+    "static/media/happyCat2.png": "/tests/static/media/happyCat2.ec2e6309.png",
+    "static/media/happyCat3.png": "/tests/static/media/happyCat3.34d25416.png",
+    "static/media/pensiveCat2.png": "/tests/static/media/pensiveCat2.0560620b.png",
+    "static/media/pensiveСat1.jpg": "/tests/static/media/pensiveСat1.37e1338f.jpg"
+  }
+}
